@@ -1,8 +1,9 @@
 How to use the function
 
-Download the file into your working directory
+1- Download the file into your working directory
 
-add the following to your script
+2- add the following to your script
 
 execfile("./getP.py")
+
 getP(dataset, X, targetClass)
